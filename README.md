@@ -45,10 +45,10 @@ After analyzing the data, the recommended top three cities for new store opening
 2. Highest total revenue.  
 3. Average sales per customer is also high.
 
-**City 2: Delhi**  
-1. Highest estimated coffee consumers at 7.7 million.  
-2. Highest total number of customers, which is 68.  
-3. Average rent per customer is 330 (still under 500).
+**City 2: Chennai**  
+1. Estimated coffee consumers at 2.78 million.  
+2. Total number of customers are 42 , which is a high number  
+3. Average rent per customer is 407.14 (still under 500).
 
 **City 3: Jaipur**  
 1. Highest number of customers, which is 69.  
